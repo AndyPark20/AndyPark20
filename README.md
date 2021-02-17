@@ -33,7 +33,7 @@ I love meeting and collaborating with people so lets talk 🤝!
 [github]:https://github.com/AndyPark20
 [linkedin]:https://www.linkedin.com/in/andypark20/
 [1]:https://github.com/AndyPark20
-[gmail]:apark1214@gmail.com
+[gmail]:mailto:apark1214@gmail.com
 
 
 
