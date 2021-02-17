@@ -14,7 +14,16 @@ I love meeting and collaborating with people so lets talk 🤝!
 
 📫 How to reach me:
 ---
-[
+[<img src="https://user-images.githubusercontent.com/69870979/108268025-d4527d00-7120-11eb-819f-1c594838df31.png" width="50">][github]
+
+
+
+
+
+<br />
+<br />
+
+[github]:https://github.com/AndyPark20
 
 
 
