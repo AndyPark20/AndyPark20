@@ -1,6 +1,6 @@
 ### Hello World! 👋🗺️
 My name is Andy, a full stack web developer, with a deep passion to create function dream(){return 'imagination into reality'}. 
-What did I do before becoming a programmer? Let me destructure that for you!
+What did I do before becoming a programmer?
 const {College🎓,Buyer📝, Sales/Account Manager🕴️ } = andy.history
 
 
