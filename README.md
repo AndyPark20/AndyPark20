@@ -1,8 +1,10 @@
-### Hello! Bonjour Hola Shalom Salve 你好 こんにちは 안녕하세요 👋
-
+### Hello World! 👋🗺️
 
 ### 📇About Me
-My name is Andy, a full stack web developer, with a deep passion to create function dream(){return 'imagination into reality'}
+My name is Andy, a full stack web developer, with a deep passion to create function dream(){return 'imagination into reality'}.                                                      What did I do before becoming a programmer?                                                                                                                                       UC, Irvine 🎓➡ Buyer📝 ➡ Sales/Account Manager🕴️ ➡ Full-time programmer💻
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyPark20)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **AndyPark20/AndyPark20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
