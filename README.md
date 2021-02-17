@@ -2,8 +2,8 @@
 
 ### 📇About Me
 My name is Andy, a full stack web developer, with a deep passion to create function dream(){return 'imagination into reality'}.                                                   
-What did I do before becoming a programmer?                                                                                                                                       UC, Irvine 🎓➡ Buyer📝 ➡ Sales/Account Manager🕴️ ➡ Full-time programmer💻
-
+What did I do before becoming a programmer?                                                                                                                                       
+UC, Irvine 🎓➡ Buyer📝 ➡ Sales/Account Manager🕴️ ➡ Full-time programmer💻
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyPark20)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
