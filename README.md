@@ -1,7 +1,7 @@
 Hello World! 👋🗺️
 ---
 My name is Andy, a full stack web developer, with a deep passion to create function dream(){return 'imagination into reality'}                             
-What did I do before becoming a programmer? Const {college, buyer, sales/account manager} = AndyPark.history                                                            
+What did I do before becoming a programmer? const {college, buyer, sales/account manager} = AndyPark.history                                                            
 I love meeting and collaborating with people so lets talk 🤝! <a href="https://andypark20.github.io/resume/">Resume Here </a>
 
 - 🔭 I’m currently working on: A full Stack flight tracker application.
