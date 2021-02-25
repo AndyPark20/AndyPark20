@@ -2,7 +2,11 @@ Hello World! 👋🗺️
 ---
 My name is Andy, a full stack web developer, with a deep passion to create function dream(){return 'imagination into reality'}                             
 What did I do before becoming a programmer? const {college, buyer, sales/account manager} = AndyPark.history                                                            
-I love meeting and collaborating with people so lets talk 🤝! <a href="https://docs.google.com/gview?url=https://github.com/AndyPark20/resume/raw/main/Andy_Park_Resume.pdf&embedded=true">Resume here </a>
+I love meeting and collaborating with people so lets talk 🤝! 
+<br />
+[<a href="https://docs.google.com/gview?url=https://github.com/AndyPark20/resume/raw/main/Andy_Park_Resume.pdf&embedded=true">Resume here </a>]
+<br />
+[<a href="https://andypark.dev/">Portfolio Website </a>]
 
 - 🔭 I’m currently working on: A full Stack flight tracker application.
 - 🌱 I’m currently learning: Stacks data structure, React redux & hooks.
@@ -30,7 +34,7 @@ I love meeting and collaborating with people so lets talk 🤝! <a href="https:/
 [<img src="https://user-images.githubusercontent.com/69870979/108268025-d4527d00-7120-11eb-819f-1c594838df31.png" width="45">][github]
 [<img src="https://user-images.githubusercontent.com/69870979/108269472-e0d7d500-7122-11eb-87a3-c473a9e6c351.png" width="45">][linkedin]
 [<img src="https://user-images.githubusercontent.com/69870979/108276917-619bce80-712d-11eb-9658-86ae9aac9f0a.png" width="45">][gmail]
-<a href="https://andypark.dev/">Portfolio </a>
+
 
 
 
