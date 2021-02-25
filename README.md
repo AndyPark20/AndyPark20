@@ -4,7 +4,7 @@ My name is Andy, a full stack web developer, with a deep passion to create funct
 What did I do before becoming a programmer? const {college, buyer, sales/account manager} = AndyPark.history                                                            
 I love meeting and collaborating with people so lets talk 🤝! 
 <br />
-[<a href="https://docs.google.com/gview?url=https://github.com/AndyPark20/resume/raw/main/Andy_Park_Resume.pdf&embedded=true">Resume here </a>]
+[<a href="https://docs.google.com/gview?url=https://github.com/AndyPark20/resume/raw/main/Andy_Park_Resume.pdf&embedded=true">Resume Here </a>]
 <br />
 [<a href="https://andypark.dev/">Portfolio Website </a>]
 
