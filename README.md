@@ -21,9 +21,9 @@ I love meeting and collaborating with people so lets talk 🤝!
 <br />
 <br />
 [<img src="https://user-images.githubusercontent.com/69870979/108280463-108ed900-7133-11eb-87e0-171b48b1df12.jpg" width="50">][car] Check your car's upcoming service/maintenance list. [<a href="https://github.com/AndyPark20/ajax-project"> Source code </a>]
-<br/>
 <br />
-[<img src="https://github.com/AndyPark20/React-project-schedule/blob/master/server/public/images/kanban.png?raw=true" width="50">][Planner] A simple Kanban board to organize your tasks. [<a href="https://github.com/AndyPark20/React-project-schedule"> Source code </a>]
+<br />
+[<img src="https://github.com/AndyPark20/React-project-schedule/blob/master/server/public/images/kanban.png?raw=true" width="50">][planner] A simple Kanban board to organize your tasks. [<a href="https://github.com/AndyPark20/React-project-schedule"> Source code </a>]
 
 
 🛠️ Tools that I use to code:
@@ -52,6 +52,7 @@ I love meeting and collaborating with people so lets talk 🤝!
 [gmail]:mailto:apark1214@gmail.com
 [flight]:https://flight-track-247.herokuapp.com/
 [car]:https://car-health-plus.herokuapp.com/
+[planner]:https://kanban-planner-board.herokuapp.com/
 
 
 
