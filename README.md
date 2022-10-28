@@ -9,7 +9,7 @@ I love meeting and collaborating with people so lets talk 🤝!
 [<a href="https://andypark.dev/">Portfolio Website </a>]
 
 - 🔭 I’m currently working on: A full Stack flight tracker application.
-- 🌱 I’m currently learning: Stacks data structure, React redux & hooks.
+- 🌱 I’m currently learning: Ruby.
 - ⚡ Fun fact: Airplane✈️ was my office at one point & I have a big appetite🍲 (You'll be shocked!)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyPark20&layout=compact)](https://github.com/AndyPark20)
